@@ -1,12 +1,13 @@
 /*
  * Level.java
- * A subclass of Agent that can send and receive encrypted messages
+ * A class to represent a level in the game, made up of a 2d tile grid, characters, and items.
  * Author: Robbie Jones
  * Date created: 13/11/25
  * Date last modified: 13/11/25
- * Version: 0.1
+ * Version: 0.1.1
  * Version history:
  * 0.1 - Initial version
+ * 0.1.1 - Updated comments
  * 0.2 - Added update method
  */
 public class Level {
